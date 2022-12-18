@@ -39,8 +39,8 @@ class vehicle_detailsAdmin(admin.ModelAdmin):
     list_display = ('vehicleno','customername','entrytime','exittime','parkingslot')
 ```
 ## OUTPUT
-
-Include the screenshot of your admin page.
+###admin output
+![Screenshot_20221218_083115](https://user-images.githubusercontent.com/118596964/208305955-0cf24c40-32a1-45e3-8524-9db0ced1a886.png)
 
 
 ## RESULT
