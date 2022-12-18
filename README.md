@@ -5,7 +5,8 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![Screenshot_20221218_083115](https://user-images.githubusercontent.com/118596964/208306101-be838fb4-ab0a-4554-8cb6-cdc4495a2cfb.png)
+![Screenshot_20221218_084519](https://user-images.githubusercontent.com/118596964/208306159-a19b2481-7627-48b5-9821-b90ff2dccc3c.png)
+
 
 ## DESIGN STEPS
 ### STEP 1: 
